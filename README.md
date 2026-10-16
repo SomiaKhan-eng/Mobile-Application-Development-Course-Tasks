@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Mobile Application Development
+# Mobile Application Development
 
 ### Course Tasks, Lab Work & Assignments
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About
+## About
 
 This repository contains all my projects, lab tasks and assignments for **Mobile Application Development**. Each folder is a complete Android Studio project with its own README.
 
@@ -27,17 +27,17 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Concepts |
 |---|---|---|
-| [📞 LabTask_ImplicitIntents_70151016](LabTask_ImplicitIntents_70151016) | UOL Help Desk app that opens the browser, dialer and maps | Implicit & explicit Intents, input validation |
-| [📝 SeminarApp_70151016](SeminarApp_70151016) | Seminar registration with a confirmation screen | Activities, Intents, validation |
-| [🧭 Task1](Task1) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
+| [LabTask_ImplicitIntents_70151016](LabTask_ImplicitIntents_70151016) | UOL Help Desk app that opens the browser, dialer and maps | Implicit & explicit Intents, input validation |
+| [SeminarApp_70151016](SeminarApp_70151016) | Seminar registration with a confirmation screen | Activities, Intents, validation |
+| [Task1](Task1) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
 
 ---
 
-## ▶️ How to Run Any Project
+## How to Run Any Project
 
 1. Clone the repository:
    `git clone https://github.com/SomiaKhan-eng/Mobile-Application-Development-Course-Tasks.git`
@@ -47,7 +47,7 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java
 - **IDE:** Android Studio
