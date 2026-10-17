@@ -33,7 +33,7 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 |---|---|---|
 | [LabTask_ImplicitIntents_70151016](LabTask_ImplicitIntents_70151016) | UOL Help Desk app that opens the browser, dialer and maps | Implicit & explicit Intents, input validation |
 | [SeminarApp_70151016](SeminarApp_70151016) | Seminar registration with a confirmation screen | Activities, Intents, validation |
-| [Task1](Task1) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
+| [Fragment_Lab_Task](Fragment_Lab_Task) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
 
 ---
 
