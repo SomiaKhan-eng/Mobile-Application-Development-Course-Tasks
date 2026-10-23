@@ -1,0 +1,11 @@
+<resources>
+    <style name="Base.Theme.UOLCourseCatalogue" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/sage</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@color/sage</item>
+    </style>
+
+    <style name="Theme.UOLCourseCatalogue" parent="Base.Theme.UOLCourseCatalogue" />
+
+</resources>
