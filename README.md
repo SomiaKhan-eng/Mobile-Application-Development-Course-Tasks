@@ -34,6 +34,7 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 | [LabTask_ImplicitIntents_70151016](LabTask_ImplicitIntents_70151016) | UOL Help Desk app that opens the browser, dialer and maps | Implicit & explicit Intents, input validation |
 | [SeminarApp_70151016](SeminarApp_70151016) | Seminar registration with a confirmation screen | Activities, Intents, validation |
 | [Fragment_Lab_Task](Fragment_Lab_Task) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
+| [LabTask2_RecyclerView_70151016](LabTask2_RecyclerView_70151016) | UOL Course Catalogue app with a scrollable course list and a details screen | RecyclerView, Adapter & ViewHolder, CardView, Intents |
 
 ---
 
