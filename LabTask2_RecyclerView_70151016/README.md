@@ -17,12 +17,6 @@
 
 UOL Course Catalogue is a simple Android app that shows the courses of the BS Software Engineering programme as a scrolling list of cards. Tapping a card opens a details screen for that course only, with a button to email its instructor.
 
-| | |
-|---|---|
-| **Student** | Somia Khan |
-| **SAP ID** | 70151016 |
-| **Section** | S |
-| **Semester** | 7th, Fall 2026 |
 
 ---
 
