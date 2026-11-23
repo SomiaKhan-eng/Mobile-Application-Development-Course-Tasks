@@ -35,6 +35,7 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 | [SeminarApp_70151016](SeminarApp_70151016) | Seminar registration with a confirmation screen | Activities, Intents, validation |
 | [Fragment_Lab_Task](Fragment_Lab_Task) | Bottom navigation with Home, Profile and Settings | Fragments, BottomNavigationView |
 | [LabTask2_RecyclerView_70151016](LabTask2_RecyclerView_70151016) | UOL Course Catalogue app with a scrollable course list and a details screen | RecyclerView, Adapter & ViewHolder, CardView, Intents |
+| [LabTask3_Firebase_70151016](LabTask3_Firebase_70151016) | UOL Lost & Found Board where students post lost or found items and see a live shared board | Firebase Realtime Database, push() & setValue(), addValueEventListener(), RecyclerView, CardView, Model class |
 
 ---
 
@@ -46,11 +47,14 @@ This repository contains all my projects, lab tasks and assignments for **Mobile
 3. Wait for **Gradle sync** to finish.
 4. Run on an emulator or a connected Android phone.
 
+> **Note for LabTask3:** `google-services.json` is not included for security reasons. To run it, create your own Firebase project, register the package `com.example.labtask2`, create a Realtime Database in test mode, and place your own `google-services.json` in the `app/` folder.
+
 ---
 
 ## Tech Stack
 
 - **Language:** Java
+- **Backend:** Firebase Realtime Database (Lab Task 3)
 - **IDE:** Android Studio
 - **Build system:** Gradle (Kotlin DSL)
 - **Version control:** Git & GitHub
