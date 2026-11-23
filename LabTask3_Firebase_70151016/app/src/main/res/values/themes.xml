@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.UOLLostFound" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+        <item name="colorAccent">@color/coral</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>
